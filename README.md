@@ -1,4 +1,4 @@
-# Dynamically-Reconfigurable-Systolic-Array-Architecture-For-Matrix-Multiplication
+
 # Dynamically Reconfigurable Systolic Array for Parallel Matrix Multiplication on FPGA
 
 A hardware accelerator for matrix multiplication implemented on a **Xilinx Artix-7 100T (Nexys 4 DDR)** board. The design supports two runtime-selectable modes via a single control bit — achieving **4.3× GEMM throughput improvement** for 8×8 workloads over a fixed baseline at only **5.11% power overhead**.
